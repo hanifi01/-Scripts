@@ -18,3 +18,8 @@ print(a * b)
 
 
 
+
+number_string="123"
+number=int(number_string)
+print(number)
+
