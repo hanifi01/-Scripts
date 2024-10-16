@@ -17,3 +17,13 @@ x,y,z = ice_cream
 print(x)
 print(y)
 print(z)
+
+
+y= 23 + 12 
+print(y)
+
+x = 'Ice Cream'
+y = 'is'
+z = 'My favorite.'
+
+print(x+y+z)
