@@ -1,3 +1,5 @@
+my_string = "Hello Abdullah"
+print(my_string)
 
 num = 5
 print(num)
@@ -13,3 +15,6 @@ b = 3
 print(a + b)  
 print(a - b)  
 print(a * b)  
+
+
+
