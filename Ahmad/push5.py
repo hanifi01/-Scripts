@@ -27,3 +27,9 @@ y = 'is'
 z = 'My favorite.'
 
 print(x+y+z)
+
+x = '12'
+y = '3'
+z = '4'
+
+print(x+y+z)
