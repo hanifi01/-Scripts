@@ -66,4 +66,22 @@ if name == "":
     if num % 2 == 0:
         print("the number is even")
 
+
+        fruit = "banana"
+        if fruit == "apple":
+            print("This is apple.")
+        else:
+            print("This is not an apple")
+
+
         
+        score = 85 
+        if score >= 90:
+            print("Grade: A")
+
+        elif score >= 80:
+            print("Grade: B")
+        elif score >= 70:
+            print("Grade: C")    
+        else:
+            print("Grade: D")    
